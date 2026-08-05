@@ -4,9 +4,9 @@ Collaborative Power BI project analyzing simulated retail sales, customer behavi
 
 
 
-\## Documentation
+## Documentation
 
 
 
-\- \[Business concepts and metric definitions](docs/BUSINESS\_CONCEPTS.md)
+* &#x20;\[[Business concepts and metric definitions](docs/business_concepts.md)]
 
