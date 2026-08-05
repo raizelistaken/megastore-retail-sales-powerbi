@@ -1,0 +1,23 @@
+{
+  "name": "MegaStore Retail Sales",
+  "dataColors": [
+    "#0B2D5B",
+    "#1E5AA8",
+    "#F2B544",
+    "#2F80ED",
+    "#6CB4EE",
+    "#D6A329",
+    "#5B6B7A",
+    "#9FB3C8"
+  ],
+  "background": "#F5F7FA",
+  "foreground": "#102A43",
+  "tableAccent": "#1E5AA8",
+  "good": "#2E8B57",
+  "neutral": "#F2B544",
+  "bad": "#C44536",
+  "maximum": "#0B2D5B",
+  "center": "#6CB4EE",
+  "minimum": "#EAF2FA",
+  "null": "#B8C5D6"
+}
